@@ -2,7 +2,7 @@
 
 A simple Java-based clone of the classic *Flappy Bird* game! This project replicates the original gameplay using Java's built-in libraries and basic game development principles.
 
-![Flappy Bird Screenshot]![image](https://github.com/user-attachments/assets/d0a10ad1-78ff-469a-8463-4d78723f1bec)
+![Flappy Bird Screenshot] ![image](https://github.com/user-attachments/assets/d0a10ad1-78ff-469a-8463-4d78723f1bec)
 
 ## 🎮 Gameplay
 
